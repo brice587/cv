@@ -36,6 +36,11 @@ div {
     margin: auto 200px auto 200px;
 }
 
+picture {
+    width: 200%;
+    height: auto;
+}
+
 .top {
     background-color: #90AACB;
     position: relative;
