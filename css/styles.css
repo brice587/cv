@@ -36,8 +36,14 @@ hr {
             width: 7%;
 }
 
+a {
+    text-decoration: none;
+    color: #9C0F48;
+}
+
 a:link {
     text-decoration: none;
+
 }
 
 
@@ -47,12 +53,13 @@ a:visited {
 
 
 a:hover {
-    text-decoration: none;
+    color: #DACC96;
 }
 
 
 a:active {
     text-decoration: none;
+    color: #DACC96;
 }
 
 .profile {
